@@ -22,10 +22,10 @@ Construo ferramentas que tiram trabalho repetitivo das pessoas e deixam a opera�
 
 ## 🛠 Ferramentas
 
-**Dados:** Python · SQL · PostgreSQL · Pandas · NumPy · Power BI · matplotlib/seaborn
-**Automação:** Playwright · APIs REST · scraping · pdfplumber · n8n · Make
-**IA:** agentes de IA · engenharia de prompt · Gemini · Replicate
-**Engenharia:** Git · Docker · testes automatizados (pytest) · Next.js · Flask · Streamlit
+- **Dados:** Python · SQL · PostgreSQL · Pandas · NumPy · Power BI · matplotlib/seaborn
+- **Automação:** Playwright · APIs REST · scraping · pdfplumber · n8n · Make
+- **IA:** agentes de IA · engenharia de prompt · Gemini · Replicate
+- **Engenharia:** Git · Docker · testes automatizados (pytest) · Next.js · Flask · Streamlit
 
 ## 🎯 Próximo passo
 Evoluir de automação para **análise e modelagem de dados** aplicadas a crédito e mercado financeiro.
